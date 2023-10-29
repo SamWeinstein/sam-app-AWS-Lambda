@@ -1,0 +1,18 @@
+{
+  "user_info": {
+    "name": "John Doe",
+    "email": "john@example.com"
+  },
+  "stock_info": [
+    {
+      "symbol": "AAPL",
+      "quantity": 10,
+      "price": 150
+    },
+    {
+      "symbol": "GOOGL",
+      "quantity": 5,
+      "price": 2000
+    }
+  ]
+}
